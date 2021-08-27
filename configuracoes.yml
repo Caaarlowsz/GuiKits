@@ -1,0 +1,36 @@
+    #================[GuiKits]=================#
+    # - Plugin GuiKits Ativo - Autor RaidzDev #
+    # - Nao retire os creditos!               #
+    #================[GuiKits]=================#
+    
+# Configurações v2    
+
+Nome: '&aGui&fKits'
+Cor: '&a' 
+Prefix: '»'
+Site: '&7PvP.&aGuiKits&7.Com.Br'
+Pro: 150
+YT: 450
+Aviso: '&7[&cAVISO&7]'
+Dica: '&7[&aDICA&7]'
+Formulario: 'formulario.com.br'
+Dono do Servidor: 'RaidzDev'
+CombatLog: false
+
+#Kits 
+Classe em Espera: '&7» &cAguarde um pouco para usar o kit novamente!'
+Usar o Classe: '&7» &aVoce ja pode usar o kit novamente!'
+Pegar o Classe: '&7» &aVoce pegou o kit: &a'
+
+#AutoMensage
+Mensagem1: '&cDa o cu pra min Gui vai ?'
+Mensagem2: '&7Edite pela config!'
+Mensagem3: '&bPlugin especial para guizin!'
+Mensagem4: '&dRaidz e Lindo <3'
+Mensagem5: '&1Muito sexo'
+
+#Mensagens
+MSG_Kick: '&6Voce foi kikado do servidor! <linha> &cRelogue!'
+MSG_Manutencao: '&7Estamos em &cMANUTENCAO! <linha>&5Ja voltamos!'
+MSG_Ban: '&7Voce foi &cBANIDO <linha2>&6Compre desban na loja! <linha>&9www.seusite.com.br'
+Motd: '&aGui&fKits &f» &7Venha treinar seu pvp <linha>        &9www.seusite.com.br'
